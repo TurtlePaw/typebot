@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "esModuleInterop": true,
+      "resolveJsonModule" : true,
+      "moduleResolution": "Node",
+      "outDir": "./dist",
+      "module": "ESNext",
+    },
+    "exclude": ["./node_modules"],
+    "include": ["./src", "./src/index.ts"],
+    "ts-node": {
+      "cwd": "/home/turtlepaw/typebot",
+      "projectSearchDir": "/home/turtlepaw/typebot",
+      "require": [],
+      "project": "/home/turtlepaw/typebot/tsconfig.json"
+    }
+}

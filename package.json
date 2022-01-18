@@ -1,0 +1,25 @@
+{
+  "name": "typebot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Just a personal bot that uses typescript",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurtlePaw/typebot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TurtlePaw/typebot/issues"
+  },
+  "homepage": "https://github.com/TurtlePaw/typebot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ts-node": "^10.4.0"
+  }
+}
